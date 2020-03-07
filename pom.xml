@@ -99,7 +99,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.233.6.18:8081/repository/mavenweb-release/</url>
+	      <url>http://13.127.128.24:8081/repository/mavenweb-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
