@@ -1,7 +1,7 @@
 node
 {
     def mavenHome=tool name : 'maven-3.6.3'
-    stage('checkout')
+    stage('checkoutcode')
     {
         git credentialsId: '885585a9-74a4-4199-a50e-3a3d009575fc', url: 'https://github.com/Devadutt-N/maven-web-application.git'
     }
